@@ -10,4 +10,4 @@
 
 ## Задание
 
-##### [Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/955888010be48653783cd46f7d43424662f544c2/lab/README.md)
+##### [Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.](https://github.com/TheManWhoSpeakInHands/Network-Engineer.-Basic./blob/main/lab/README.md?plain=1#L1)
