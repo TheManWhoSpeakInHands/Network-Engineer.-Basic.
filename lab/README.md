@@ -9,3 +9,5 @@
 | PC-A      | NIC       |  192.168.0.11/18 |
 
 ## Задание
+
+##### [Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.](https://github.com/TheManWhoSpeakInHands/Network-Engineer.Basic./edit/25405ef9ad0e6ba89c539eebec0e56d4608f9257/lab/README.md)
